@@ -1,1 +1,1 @@
-collection of programs i've made related to sudoku
+# collection of programs i've made related to sudoku
